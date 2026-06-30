@@ -46,4 +46,4 @@ function ProductCard({ product, deleteProduct, editProduct }) {
     );
 }
 
-export default ProductCard;d;
+export default ProductCard;
